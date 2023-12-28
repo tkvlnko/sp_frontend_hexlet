@@ -1,1 +1,1 @@
-solved problems from the course frontend-developer on hexlet
+solved problems from the course "frontend-developer" on hexlet
