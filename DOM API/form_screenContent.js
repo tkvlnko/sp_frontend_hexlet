@@ -1,5 +1,4 @@
 // @ts-check
-
 import { htmlEscape } from 'escape-goat';
 
 const screenContent = () => {
