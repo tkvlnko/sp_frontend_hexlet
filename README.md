@@ -1,1 +1,1 @@
-# sp_frontend_hexlet
+solved problems from the course frontend-developer on hexlet
